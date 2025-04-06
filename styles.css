@@ -8,3 +8,10 @@ body {
     color: #333;
     line-height: 1.6;
 }
+
+header {
+    background-color:#5c2fc5; 
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
