@@ -38,3 +38,8 @@ section.navigation {
     text-align: center;
     margin-top: 20px;
 }
+a {
+    text-decoration: none;
+    color: #5c2fc5;
+    font-size: 1.2em;
+}
