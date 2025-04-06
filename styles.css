@@ -43,3 +43,7 @@ a {
     color: #5c2fc5;
     font-size: 1.2em;
 }
+a:hover {
+    color:#5c2fc5; 
+    text-decoration: underline;
+}
